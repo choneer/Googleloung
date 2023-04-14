@@ -1,2 +1,2 @@
 # Googleloung
-forked fromhttps://github.com/wayou/t-rex-runner
+forked from https://github.com/wayou/t-rex-runner
